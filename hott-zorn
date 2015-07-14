@@ -1,5 +1,6 @@
 % HoTT-Zorn-c tex
-% https://docs.google.com/document/d/1gzWxq-f0kc8T-G3s4lPjaSBrvcyWsL8QOmR2OZL5-dQ/edit
+% https://goo.gl/FCYDDR
+% https://github.com/Pierre-Yves-Gaillard/HoTT-Zorn/edit/master/hott-zorn
 % !TEX encoding = UTF-8 Unicode
 \documentclass[12pt]{article}
 \usepackage[T1]{fontenc}
@@ -27,6 +28,14 @@
 \date{\today, \currenttime}
 \begin{document}
 \maketitle
+
+\nn This text is available at 
+
+\nn\href{http://iecl.univ-lorraine.fr/~Pierre-Yves.Gaillard/HoTT/HoTT-Zorn}{http://iecl.univ-lorraine.fr/$\sim$Pierre-Yves.Gaillard/HoTT/HoTT-Zorn}
+
+\nn\href{https://github.com/Pierre-Yves-Gaillard/HoTT-Zorn}{https://github.com/Pierre-Yves-Gaillard/HoTT-Zorn}
+
+\nn\href{https://goo.gl/FCYDDR}{https://goo.gl/FCYDDR}\bigskip
 
 \nn We adhere to the notation and assumptions of the HoTT Book [1]. We assume in addition the Axiom of Choice and the Law of Excluded Middle. (In fact, the Axiom of Choice implies the Law of Excluded Middle; see Theorem 10.1.14 in [1].) We shall use only the first three chapters of [1].
 
